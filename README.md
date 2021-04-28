@@ -1,4 +1,4 @@
-# citibike-tableau
+# citibike-tableau-analysis
 ## Description
 Using the Citi Bike System Data found on <https://www.citibikenyc.com/system-datareate>, create and analyze visualizations of unexpected phenomena for a chosen time period with Tableau. You can find the link to my workbook at <https://public.tableau.com/profile/nick.mangarella#!/vizhome/JerseyCityCitiBikeAnalysis/Story1>.
 
